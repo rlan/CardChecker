@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Card Checker</string>
+    <string name="edit_message">Enter a card number</string>
+    <string name="button_check">Check</string>
+    <string name="button_clear">Clear</string>
+    <string name="text_digit_count">Digit count</string>
+    <string name="text_issuer">Issuer (e.g. Visa)</string>
+    <string name="text_checksum">Checksum</string>
+    <string name="text_unknown">Unknown</string>
+    <string name="text_result">Result</string>
+    <string name="text_result_pass">Pass</string>
+    <string name="text_result_fail">FAIL</string>
+    <string name="text_result_none">None</string>
+</resources>
